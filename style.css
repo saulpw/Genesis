@@ -1,8 +1,14 @@
 body {
     color: #000000;
-    font-size: 16px;
-    font-family: Georgia;
     margin: 0px auto 0px;
+    font-size: 12px;
+}
+
+.license {
+    text-align: right;
+    font-style: italic;
+    font-size: 12px;
+    padding-right: 1em;
 }
 
 a, a:visited {
@@ -28,6 +34,8 @@ a.note:hover {
 	margin: 0px auto 0px;
 	padding: 20px 10px 0px 10px;
     text-align: justify;
+    font-size: 16px;
+    font-family: Georgia;
 }
 
 #content p {
@@ -39,10 +47,4 @@ a.note:hover {
 h1 {
     text-align: center;
     font-size: 18px;
-}
-
-.copyright {
-    font-size: 6px;
-    text-align: right;
-    font-style: italic;
 }
