@@ -100,7 +100,7 @@ The simple cells and proto-plants and aerobia evolved independently;
 and by two eons ago
 they had [merged](https://en.wikipedia.org/wiki/Symbiogenesis)
 into [compound cells](https://en.wikipedia.org/wiki/Eukaryote),
-which eat light from the Sun, and also dirt from the Earth.
+which eat light from the Sun, and also flesh of the earth.
 
 Some compound cells
 [became joined](https://en.wikipedia.org/wiki/Evolution_of_multicellularity)
