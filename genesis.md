@@ -31,7 +31,7 @@ comes the light from billions of
 
 The ancestral suns
 [burned the first element](https://en.wikipedia.org/wiki/Proton-proton_chain)
-for several eons to form the second element and the
+to form the second element and the
 [third element](https://en.wikipedia.org/wiki/Lithium "Lithium")
 and so on down to the
 [twenty-sixth element](https://en.wikipedia.org/wiki/Iron-56 "Iron");
@@ -50,7 +50,7 @@ burned for several eons and will burn for several more.
 So the
 [ninety-two elements](https://en.wikipedia.org/wiki/Supernova_nucleosynthesis)
 were created;
-and they [settled to form the planets](https://en.wikipedia.org/wiki/Planet#Formation), including the
+and they [gathered to form the planets](https://en.wikipedia.org/wiki/Planet#Formation), including the
 [Earth](https://en.wikipedia.org/wiki/Earth) which came to
 [orbit](https://en.wikipedia.org/wiki/Orbit) the Sun;
 and also the moons which came to orbit the planets, including one
@@ -58,7 +58,7 @@ and also the moons which came to orbit the planets, including one
 which came to orbit the Earth.
 
 The Earth
-[spun](https://en.wikipedia.org/wiki/Earth_rotation)
+[spun](https://en.wikipedia.org/wiki/Earth%27s_rotation)
 night and day and night again, and the rock and ocean and atmosphere
 [were separate](https://en.wikipedia.org/wiki/Planetary_differentiation)
 by [five eons ago](https://en.wikipedia.org/wiki/Age_of_the_Earth);
@@ -83,13 +83,13 @@ and by four eons ago there were
 [simple cells](https://en.wikipedia.org/wiki/Prokaryote).
 
 Some simple cells became
-[proto-plants](https://en.wikipedia.org/wiki/Cyanobacteria),
+[proto-plants](https://en.wikipedia.org/wiki/Cyanobacteria "Cyanobacteria"),
 which [ate light from the sun](https://en.wikipedia.org/wiki/Photosynthesis);
 but their
 [waste accumulated and became poison](https://en.wikipedia.org/wiki/Oxygen_Catastrophe)
 to them.  And so some simple cells became
 [aerobia](https://en.wikipedia.org/wiki/Aerobic_organism),
-which ate the bodies and breathed the waste; and by three eons ago the
+which ate the bodies and breathed the waste; and by two eons ago the
 proto-plants and aerobia had come to equilibrium in the oceans, and the
 [eighth element](https://en.wikipedia.org/wiki/Oxygen "Oxygen")
 had come to
@@ -115,25 +115,26 @@ And by one eon ago, vegetation had covered the earth.
 Vegetation became
 [plants yielding seed](https://en.wikipedia.org/wiki/Spermatophyte),
 and [trees](https://en.wikipedia.org/wiki/Tree) bearing
-[fruit](https://en.wikipedia.org/wiki/Fruit) in which is their seed,
-and [flowers](https://en.wikipedia.org/wiki/Angiosperms) feeding
-[insects](https://en.wikipedia.org/wiki/Insect) which
-[spread their seed](https://en.wikipedia.org/wiki/Co-evolution).
+[fruit](https://en.wikipedia.org/wiki/Fruit) in which is their seed.
 And there came to be [fish](https://en.wikipedia.org/wiki/Fish)
-in the ocean, and [birds](https://en.wikipedia.org/wiki/Birds)
-in the air, and all manner of
+in the ocean, and all manner of
 [animals](https://en.wikipedia.org/wiki/Animals)
-along the ground; the stronger eats the smaller and the weakest
+along the ground.
+Then came [flowers](https://en.wikipedia.org/wiki/Angiosperms) feeding
+[insects](https://en.wikipedia.org/wiki/Insect) which
+[spread their seed](https://en.wikipedia.org/wiki/Co-evolution),
+and [birds](https://en.wikipedia.org/wiki/Birds) in the air;
+the stronger eats the weaker and the weakest
 eats from the sun, and it is equilibrium.
 
 *Then,* it came to pass that
-[*australopithicus*](https://en.wikipedia.org/wiki/Australopithicus),
+[*Australopithecus*](https://en.wikipedia.org/wiki/Australopithecus),
 which walked upright on two feet, begat
-[*homo habilis*](https://en.wikipedia.org/wiki/Homo_habilis),
+[*Homo habilis*](https://en.wikipedia.org/wiki/Homo_habilis),
 which hunted with tools; *habilis* begat
-[*homo erectus*](https://en.wikipedia.org/wiki/Homo_erectus),
+[*Homo erectus*](https://en.wikipedia.org/wiki/Homo_erectus),
 which captured fire; and *erectus* begat
-[*homo sapiens*](https://en.wikipedia.org/wiki/Homo_sapiens),
+[*Homo sapiens*](https://en.wikipedia.org/wiki/Homo_sapiens),
 which moved their tongues in speech.
 
-Now it is the end of eons; and *homo sapiens* is man and woman.
+Now it is the end of eons; and *Homo sapiens* is man and woman.
