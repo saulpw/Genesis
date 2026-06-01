@@ -124,8 +124,8 @@ Then came [flowers](https://en.wikipedia.org/wiki/Angiosperms) feeding
 [insects](https://en.wikipedia.org/wiki/Insect) which
 [spread their seed](https://en.wikipedia.org/wiki/Co-evolution),
 and [birds](https://en.wikipedia.org/wiki/Birds) in the air;
-the stronger eats the weaker and the weakest
-eats from the sun, and it is equilibrium.
+the larger ate the smaller and the smallest
+ate from the sun, and it was equilibrium.
 
 <a class="note"><em>Then,</em></a> it came to pass that
 [*Australopithecus*](https://en.wikipedia.org/wiki/Australopithecus),
