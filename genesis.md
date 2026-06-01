@@ -61,7 +61,7 @@ The Earth
 [spun](https://en.wikipedia.org/wiki/Earth%27s_rotation)
 night and day and night again, and the rock and ocean and atmosphere
 [were separate](https://en.wikipedia.org/wiki/Planetary_differentiation)
-by [five eons ago](https://en.wikipedia.org/wiki/Age_of_the_Earth);
+by [four eons ago](https://en.wikipedia.org/wiki/Age_of_the_Earth);
 and [volcanoes](https://en.wikipedia.org/wiki/Volcano)
 made the [mountains](https://en.wikipedia.org/wiki/Mountain);
 and [rivers](https://en.wikipedia.org/wiki/River) carved the
@@ -98,7 +98,7 @@ in the atmosphere.
 
 The simple cells and proto-plants and aerobia evolved independently;
 and by two eons ago
-they had [merged](https://en.wikipedia.org/wiki/Phagocytosis)
+they had [merged](https://en.wikipedia.org/wiki/Symbiogenesis)
 into [compound cells](https://en.wikipedia.org/wiki/Eukaryote),
 which eat light from the Sun, and also dirt from the Earth.
 
@@ -127,11 +127,11 @@ and [birds](https://en.wikipedia.org/wiki/Birds) in the air;
 the stronger eats the weaker and the weakest
 eats from the sun, and it is equilibrium.
 
-*Then,* it came to pass that
+<a class="note"><em>Then,</em></a> it came to pass that
 [*Australopithecus*](https://en.wikipedia.org/wiki/Australopithecus),
 which walked upright on two feet, begat
 [*Homo habilis*](https://en.wikipedia.org/wiki/Homo_habilis),
-which hunted with tools; *habilis* begat
+which made use of tools; *habilis* begat
 [*Homo erectus*](https://en.wikipedia.org/wiki/Homo_erectus),
 which captured fire; and *erectus* begat
 [*Homo sapiens*](https://en.wikipedia.org/wiki/Homo_sapiens),
